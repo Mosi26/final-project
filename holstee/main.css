@@ -1,0 +1,78 @@
+.border-div{
+  width: 400px;
+  height: 1000px;
+  border: 6px solid black;
+  font-family: 'oswald', sans-serif;
+}
+
+.Quattrocento{
+  font-family: 'Quattrocento', serif;
+  font-weight: 900;
+}
+
+.large-box{
+  width: 190px;
+  height: 360px;
+  padding: 20px 5px 20px 5px;
+  text-align: center;
+  background-color: #ff5c33;
+  font-size: 23px;
+
+
+}
+
+.small-box{
+  width: 190px;
+  height: 180px;
+  padding: 20px 5px 0px 5px;
+  text-align: center;
+  
+}
+
+#left1{
+  float: left;
+  
+
+}
+
+#right1{
+  background-color: #0066ff;
+  float: left;
+  
+}
+
+#right2{
+  background-color: #ccffe6;
+  float: left;
+  
+}
+
+#left2{
+  background-color: #0066ff;
+  float: left;
+  
+}
+
+#right3{
+  background-color: #00b3b3;
+  float: left;
+  
+}
+
+#left3{
+  background-color: #ccffe6;
+  float: left;
+  
+}
+
+#left4{
+  background-color: #00b3b3;
+  float: left;
+  
+  
+}
+
+#right4{
+  float: right;
+ 
+}
